@@ -25,7 +25,7 @@ Tool.create(name: "Colorize", language: "Ruby", difficulty: 1, mod: [1], purpose
 Tool.create(name: "Semantic UI", language: "CSS", difficulty: 3, mod: [2, 3, 4, 5], purpose: "website")
 Tool.create(name: "Bulma", language: "CSS", difficulty: 3, mod: [2, 3, 4, 5], purpose: "website")
 
-Keyword.create(subject: ['educational', 'meaningful', 'health care', 'sports', 'music', 'management', 'finance'], keyword_type: ['Game', 'CLI', 'Todo List', 'Scheduler', 'Blog'], purpose: ['Dogs', 'Jeff', 'Kids', 'Musicians', 'Managers', 'Athletes'])
+Keyword.create(subject: ['educational', 'meaningful', 'health care', 'sports', 'music', 'management', 'finance', 'running', 'sneaker', 'skateboarding', 'dance'], keyword_type: ['Game', 'CLI', 'Todo List', 'Scheduler', 'Blog'], purpose: ['Dogs', 'Jeff', 'Kids', 'Musicians', 'Managers', 'Athletes', "Immigrants", "Minorities", "Camps", "Alpacas"])
 
 # idea1 = Idea.create(mod: 1, type: "Create an educational CLI with TTY Prompt for Dogs")
 # idea2 = Idea.create(mod: 2, type: "Create a health care scheduler with Bootstrap for Jeff")
